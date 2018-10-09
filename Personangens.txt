@@ -1,2 +1,3 @@
 glass
 diamond
+firer
